@@ -63,9 +63,9 @@ Epidemic routing across the evaluated buffer configurations.
 
 ## Report
 
-The complete academic project report is available in:
+The complete academic project report is available here:
 
-`report/DTN_Routing_Performance_Report.pdf`
+[View the full project report](report/DTN_Routing_Performance_Report.pdf)
 
 ## Authors
 
